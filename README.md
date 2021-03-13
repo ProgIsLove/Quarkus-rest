@@ -34,7 +34,7 @@ The following items should be installed in your system:
     
     GET localhost:8080/person/name/${firstName}/${lastName}
     
-    POST GET localhost:8080/person => in Body section, tick raw, select JSON and write 
+    POST localhost:8080/person => in Body section, tick raw, select JSON and write 
     
     {
       "firstName": "name",
@@ -42,8 +42,7 @@ The following items should be installed in your system:
     }
     
     ```
-    
-  #<img alt="section" src="https://imgur.com/BWsGDZo.png">
+ #<img alt="section" src="https://imgur.com/BWsGDZo.png">
     
  5) enjoy <3
 
