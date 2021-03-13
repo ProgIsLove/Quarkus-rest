@@ -22,7 +22,7 @@ The following items should be installed in your system:
     ```shell script
     ${yourPath}/quarkus-rest>mvnw compile quarkus:dev
     ```
-3) Visit http://localhost:8080/hello in your browser.
+### Visit http://localhost:8080/hello in your browser.
  
 4) Open Postman or Insomnia rest and try these commands
     ```
