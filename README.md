@@ -24,7 +24,7 @@ The following items should be installed in your system:
     ```
 3) Visit http://localhost:8080/hello in your browser.
  
-4) Open Postman or Insomnia rest and try this command
+4) Open Postman or Insomnia rest and try these commands
     ```
     GET localhost:8080/person
     
