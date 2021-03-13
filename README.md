@@ -43,7 +43,7 @@ The following items should be installed in your system:
     
     ```
     
-  #<img alt="section" src="https://imgur.com/BWsGDZog">
+  #<img alt="section" src=https://imgur.com/a/xZzAokD>
     
  5) enjoy <3
 
