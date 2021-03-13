@@ -42,13 +42,11 @@ The following items should be installed in your system:
     }
     
     ```
-    
-    
- 5) enjoy <3
-
-
-
+   
  <img alt="section" src="https://imgur.com/iaqct9i.png">
+ 
+ 
+  5) enjoy <3
     
 
 
