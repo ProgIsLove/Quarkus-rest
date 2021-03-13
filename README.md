@@ -9,6 +9,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 ### Prerequisites
 The following items should be installed in your system:
 * Java 8 or newer.
+* Maven
 * Git command line tool (https://help.github.com/articles/set-up-git)
 * Your preferred IDE
   * Eclipse
